@@ -78,8 +78,8 @@ english_to_monsu.update({
 ### Installation Steps
 1. Clone the repository (or download the script directly):
     ```bash
-    git clone https://github.com/rkstudio 585/english-to-monsu-translator.git
-    cd english-to-monsu-translator
+    git clone https://github.com/rkstudio 585/English-to-Monsu-Translator.git
+    cd English-to-Monsu-Translator
     ```
 
 2. Run the Python script:
