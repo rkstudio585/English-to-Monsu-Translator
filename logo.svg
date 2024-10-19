@@ -1,0 +1,19 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#f0f0f0" stroke="#1f78b4" stroke-width="10" />
+  
+  <!-- Text bubble for English -->
+  <path d="M50,40 Q30,40 30,60 L30,80 Q30,100 50,100 L80,100 Q100,100 100,80 L100,60 Q100,40 80,40 L50,40 Z" fill="#1f78b4"/>
+  <text x="45" y="65" fill="white" font-family="Arial" font-size="12">EN</text>
+  
+  <!-- Arrow pointing right -->
+  <polygon points="105,70 125,85 105,100" fill="#333" />
+
+  <!-- Text bubble for Monsu -->
+  <path d="M150,40 Q130,40 130,60 L130,80 Q130,100 150,100 L180,100 Q200,100 200,80 L200,60 Q200,40 180,40 L150,40 Z" fill="#e31a1c"/>
+  <text x="145" y="65" fill="white" font-family="Arial" font-size="12">MO</text>
+  
+  <!-- Project Title -->
+  <text x="50" y="160" fill="#333" font-family="Arial" font-size="20" font-weight="bold">English to Monsu</text>
+  <text x="70" y="180" fill="#333" font-family="Arial" font-size="14">Translator</text>
+</svg>
